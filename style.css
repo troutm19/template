@@ -16,6 +16,7 @@ header, main, footer {
 
 header, main h1 {
 	color:#F34949;
+	font-family: braggadocio;
 }
 
 a, a:visited {
