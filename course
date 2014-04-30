@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<head>
+<meta name="description" content="Basic Portfolio">
+<meta name="author" content="name goes here">
+<meta charset="UTF-8">
+<link type="text/css" rel="stylesheet" href="style.css">
+<title>my portfolio</title>
+</head>
+<body>
+<content>
+<header>
+<h1>my portfolio</h1>
+<ul id="nav">
+<li><a href="index.html">home</a></li>
+<li><a href="lived.html">lived <br />experiences</a></li>
+<li><a href="cultural.html">cultural <br />analysis</a></li>
+<li><a href="formal.html">formal <br />research</a></li>
+<li><a href="remix.html">remix</a></li>
+<li><a href="course">course <br />retrospective</a></li>
+<li><a href="blog.html">blog</a></li>
+</ul>
+</header>
+<div id="menu">
+<ul>
+<li><a href="course.html">Executive Summary</a></li>
+<li><a href="course2.html">Introduction</a></li>
+<li><a href="course3.html">Analysis of Artifact</a></li>
+<li><a href="course4.html">Description of Issue</a></li>
+<li><a href="course5.html">Proposed Solution</a></li>
+<li><a href="course6.html">Anticipated Effects</a></li>
+<li><a href="course7.html">Conclusion</a></li>
+</ul>
+</div>
+<article>
+<h1>Introduction</h1>
+<p>
+How people feel about writing classes varies greatly depending on who you are. Writing classes can either be seen as the dreaded university requirement or if you are a good writer they are the perfect GPA boosting class. Personally I am not a good writer at all, so for me it was the former that more accurately represented my view on the mandatory first year writing class. However, there are always those classes that you would never choose to take on your own, but are required of you, that you end up actually enjoying. To my surprise Writing 110 turned out to be a class that I didn’t dread coming to and actually enjoyed the assignments. It isn’t just an average writing class where you go over grammar rules and proper construction of a paper, but instead it included a really unique blend of technology and traditional English class components. I got to write papers that I was interested in which makes the writing process a lot easier. While I got more practice writing papers I also got to create my own webpage, introducing me to html and CSS code and how it works. This writing class is unlike any other in that it teaches you a really cool set of skills. Writing 110 is definitely a class worth taking especially if you aren’t a big fan of traditional writing courses.
+</p>
+</article>
+<footer>
+<p>&copy; 2013 [Emily Troutman]</p>
+</footer>
+</content>
+</body>	
